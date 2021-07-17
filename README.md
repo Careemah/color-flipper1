@@ -3,4 +3,4 @@
 ## Hosted Link
 
 
-[Live Preview] ()
+[Live Preview] (https://careemah.github.io/color-flipper1/)
